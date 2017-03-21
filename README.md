@@ -15,6 +15,7 @@ To cite package ‘laser’ in publications use:
 
 A BibTeX entry for LaTeX users is
 
+```
   @Manual{,
     title = {laser: Likelihood Analysis of Speciation/Extinction Rates from
 Phylogenies},
@@ -23,5 +24,6 @@ Phylogenies},
     note = {R package version 2.4-1},
     url = {https://CRAN.R-project.org/package=laser},
   }
+```
 
 And also be sure to cite the papers describing the methods you use from within the package. Citations are the currency with which we pay the people who have done the work making our work possible.
